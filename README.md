@@ -9,8 +9,11 @@ This can be used if the app cannot be run from the server. If this is the case, 
 This toll drew data from different publically available sources. Here are the main ones:
 
 All Wellbeing Measures: https://www.data.act.gov.au/dataset/All-Wellbeing-Measures/b5kg-deh8
+
 Canberra Metro Light Rail Transit Feed - Trip Updates (Historical Archive): https://www.data.act.gov.au/Transport/Canberra-Metro-Light-Rail-Transit-Feed-Trip-Update/jxpp-4iiz
+
 Daily Public Transport Passenger Journeys by Service Type: https://www.data.act.gov.au/Transport/Daily-Public-Transport-Passenger-Journeys-by-Servi/nkxy-abdj
+
 Vehicle registrations by motive power: https://www.data.act.gov.au/Transport/Vehicle-registrations-by-motive-power/x4hp-vihn
 
 ## The online tool
@@ -19,5 +22,5 @@ The online tol has been developed to be used by both people who are interested o
 ## Visualisations
 This tool has been designed to be as user-friendly as possible. The apporach was to have simple yet highly easthetically data plots.
 
-## As close a a click
+## As fast as a click
 The aim was also to allow users navigate the tool with simple clicks on tabs and dropdown menues. I hope this facilitates the maximisation of the rich data.
