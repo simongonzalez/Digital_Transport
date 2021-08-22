@@ -6,7 +6,9 @@ This was developed using R and Shiny. All the scripts as well as the databased c
 This can be used if the app cannot be run from the server. If this is the case, the app can be run from locally installed files.
 
 ## Data sources
-This toll drew data from different publically available sources. Here are the main ones:
+This tool drew data from different publically available sources. 
+
+### Here are the main ones:
 
 All Wellbeing Measures: https://www.data.act.gov.au/dataset/All-Wellbeing-Measures/b5kg-deh8
 
@@ -16,7 +18,7 @@ Daily Public Transport Passenger Journeys by Service Type: https://www.data.act.
 
 Vehicle registrations by motive power: https://www.data.act.gov.au/Transport/Vehicle-registrations-by-motive-power/x4hp-vihn
 
-Other datasets include:
+### Other datasets include:
 
 ACT Playgrounds: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::play-grounds/about
 
