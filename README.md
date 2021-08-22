@@ -16,6 +16,18 @@ Daily Public Transport Passenger Journeys by Service Type: https://www.data.act.
 
 Vehicle registrations by motive power: https://www.data.act.gov.au/Transport/Vehicle-registrations-by-motive-power/x4hp-vihn
 
+Other datasets include:
+
+ACT Playgrounds: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::play-grounds/about
+
+ACT Barbeques: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::barbeques/about
+
+ACT Dog Parks: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::dog-parks/about
+
+ACT Public Furniture: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::public-furniture/about
+
+ACT Public Toilets: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::public-toilets/about
+
 ## The online tool
 
 Link: https://phoneapps.shinyapps.io/digital_transport_govhack2021/
