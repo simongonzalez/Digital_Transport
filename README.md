@@ -46,13 +46,13 @@ This tool has been designed to be as user-friendly as possible. The apporach was
 
 These are sample images of the different sections of the app:
 
-### Transport Trendline
+### Transport Timeline
 ![transportTrendline](./sectionsImages/transportTrendline.png)
 
 ### Transport Journeys Timeline
 ![transportJourneysTimeline](./sectionsImages/transportJourneysTimeline.png)
 
-### Motive Power Time line
+### Motive Power Timeline
 ![motivPowerTimeline](./sectionsImages/motivPowerTimeline.png)
 
 ### WildLife Accidents Dasboard
