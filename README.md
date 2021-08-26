@@ -43,7 +43,7 @@ This tool has been designed to be as user-friendly as possible. The apporach was
 
 These are sample images of the different sections of the app:
 
-![busStopandClosePlaces](https://github.com/simongonzalez/digital_transport_GOVHACK2021/blob/sectionsImages/busStopandClosePlaces.png)
+![busStopandClosePlaces](./sectionsImages/busStopandClosePlaces.png)
 
 tree/main/sectionsImages/busStopandClosePlaces.png?raw=true)
 
