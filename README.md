@@ -55,7 +55,7 @@ These are sample images of the different sections of the app:
 ### Motive Power Timeline
 ![motivPowerTimeline](./sectionsImages/motivPowerTimeline.png)
 
-### WildLife Accidents Dasboard
+### WildLife Accidents Dashboard
 ![wildLifeAccidentsDasboard](./sectionsImages/wildLifeAccidentsDasboard.png)
 
 ### Wildlife Accidents Stats
