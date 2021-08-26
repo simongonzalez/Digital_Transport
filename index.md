@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# digital_transport_GOVHACK2021
+This is a repository with information of the tool developed for my govhack2021 entry.
 
-You can use the [editor on GitHub](https://github.com/simongonzalez/digital_transport_GOVHACK2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This was developed using R and Shiny. All the scripts as well as the databased can be found in the final app folder.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This can be used if the app cannot be run from the server. If this is the case, the app can be run from locally installed files.
 
-### Markdown
+## Data sources
+This tool drew data from different publically available sources. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Here are the main ones:
 
-```markdown
-Syntax highlighted code block
+All Wellbeing Measures: https://www.data.act.gov.au/dataset/All-Wellbeing-Measures/b5kg-deh8
 
-# Header 1
-## Header 2
-### Header 3
+Canberra Metro Light Rail Transit Feed - Trip Updates (Historical Archive): https://www.data.act.gov.au/Transport/Canberra-Metro-Light-Rail-Transit-Feed-Trip-Update/jxpp-4iiz
 
-- Bulleted
-- List
+Daily Public Transport Passenger Journeys by Service Type: https://www.data.act.gov.au/Transport/Daily-Public-Transport-Passenger-Journeys-by-Servi/nkxy-abdj
 
-1. Numbered
-2. List
+Vehicle registrations by motive power: https://www.data.act.gov.au/Transport/Vehicle-registrations-by-motive-power/x4hp-vihn
 
-**Bold** and _Italic_ and `Code` text
+### Other datasets include:
 
-[Link](url) and ![Image](src)
-```
+ACT Playgrounds: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::play-grounds/about
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ACT Barbeques: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::barbeques/about
 
-### Jekyll Themes
+ACT Dog Parks: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::dog-parks/about
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simongonzalez/digital_transport_GOVHACK2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ACT Public Furniture: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::public-furniture/about
 
-### Support or Contact
+ACT Public Toilets: https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::public-toilets/about
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## The online tool
+
+Link: https://phoneapps.shinyapps.io/digital_transport_govhack2021/
+
+Video: https://www.youtube.com/watch?v=CfK6GcTBpBs&ab_channel=Sim%C3%B3nGonz%C3%A1lez
+
+The online tol has been developed to be used by both people who are interested on ACT and open spaces, as well as personnel from institutions inetrested in having all this material in one place.
+
+## As fast as a click
+The aim was also to allow users navigate the tool with simple clicks on tabs and dropdown menues. I hope this facilitates the maximisation of the rich data.
+
+## Visualisations
+This tool has been designed to be as user-friendly as possible. The apporach was to have simple yet highly easthetically data plots.
+
+These are sample images of the different sections of the app:
+
+### Transport Timeline
+![transportTrendline](./sectionsImages/transportTrendline.png)
+
+### Transport Journeys Timeline
+![transportJourneysTimeline](./sectionsImages/transportJourneysTimeline.png)
+
+### Motive Power Timeline
+![motivPowerTimeline](./sectionsImages/motivPowerTimeline.png)
+
+### WildLife Accidents Dashboard
+![wildLifeAccidentsDasboard](./sectionsImages/wildLifeAccidentsDasboard.png)
+
+### Wildlife Accidents Stats
+![wildlifeAccidentsStats](./sectionsImages/wildlifeAccidentsStats.png)
+
+### Playgrounds Dashboard
+![playGroundDashboard](./sectionsImages/playGroundDashboard.png)
+
+### Bus Stops and Close Places
+![busStopandClosePlaces](./sectionsImages/busStopandClosePlaces.png)
