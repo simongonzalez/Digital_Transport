@@ -43,7 +43,7 @@ This tool has been designed to be as user-friendly as possible. The apporach was
 
 These are sample images of the different sections of the app:
 
-![busStopandClosePlaces](./sectionsImages/busStopandClosePlaces.png)
+![busStopandClosePlaces](./sectionsImages/busStopandClosePlaces.png){:height="50%" width="50%"}
 
 tree/main/sectionsImages/busStopandClosePlaces.png?raw=true)
 
