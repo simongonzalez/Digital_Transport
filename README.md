@@ -38,16 +38,31 @@ Video: https://www.youtube.com/watch?v=CfK6GcTBpBs&ab_channel=Sim%C3%B3nGonz%C3%
 
 The online tol has been developed to be used by both people who are interested on ACT and open spaces, as well as personnel from institutions inetrested in having all this material in one place.
 
+## As fast as a click
+The aim was also to allow users navigate the tool with simple clicks on tabs and dropdown menues. I hope this facilitates the maximisation of the rich data.
+
 ## Visualisations
 This tool has been designed to be as user-friendly as possible. The apporach was to have simple yet highly easthetically data plots.
 
 These are sample images of the different sections of the app:
 
-![busStopandClosePlaces](./sectionsImages/busStopandClosePlaces.png){:height="50%" width="50%"}
+### Transport Trendline
+![transportTrendline](./sectionsImages/transportTrendline.png)
 
-tree/main/sectionsImages/busStopandClosePlaces.png?raw=true)
+### Transport Journeys Timeline
+![transportJourneysTimeline](./sectionsImages/transportJourneysTimeline.png)
 
+### Motive Power Time line
+![motivPowerTimeline](./sectionsImages/motivPowerTimeline.png)
 
+### WildLife Accidents Dasboard
+![wildLifeAccidentsDasboard](./sectionsImages/wildLifeAccidentsDasboard.png)
 
-## As fast as a click
-The aim was also to allow users navigate the tool with simple clicks on tabs and dropdown menues. I hope this facilitates the maximisation of the rich data.
+### Wildlife Accidents Stats
+![wildlifeAccidentsStats](./sectionsImages/wildlifeAccidentsStats.png)
+
+### Playgrounds Dashboard
+![playGroundDashboard](./sectionsImages/playGroundDashboard.png)
+
+### Bus Stops and Close Places
+![busStopandClosePlaces](./sectionsImages/busStopandClosePlaces.png)
