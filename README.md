@@ -43,9 +43,9 @@ This tool has been designed to be as user-friendly as possible. The apporach was
 
 These are sample images of the different sections of the app:
 
-If you want to embed images, this is how you do it:
+![busStopandClosePlaces](https://octodex.github.com/images/yaktocat.png)
 
-![busStopandClosePlaces](https://github.com/simongonzalez/digital_transport_GOVHACK2021/tree/main/sectionsImages/busStopandClosePlaces.png?raw=true)
+https://github.com/simongonzalez/digital_transport_GOVHACK2021/tree/main/sectionsImages/busStopandClosePlaces.png?raw=true)
 
 ## As fast as a click
 The aim was also to allow users navigate the tool with simple clicks on tabs and dropdown menues. I hope this facilitates the maximisation of the rich data.
