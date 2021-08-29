@@ -41,9 +41,10 @@ The online tol has been developed to be used by both people who are interested o
 ## As fast as a click
 The aim was also to allow users navigate the tool with simple clicks on tabs and dropdown menues. I hope this facilitates the maximisation of the rich data.
 
-## Sample View
+## Sample Views
 ![sampleView](./sectionsImages/sampleView2.jpeg)
 ![sampleView2](./sectionsImages/sampleView.jpeg)
+![sampleView3](./sectionsImages/sampleView3.jpeg)
 
 ## Visualisations
 This tool has been designed to be as user-friendly as possible. The apporach was to have simple yet highly easthetically data plots.
