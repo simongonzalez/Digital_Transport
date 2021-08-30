@@ -16,11 +16,11 @@ On the other hand, the data shows that living in post pandemic world has affecte
 The data explored in the Transport across time shows that there is a small, yet relevant trend, of people slowly trying to go into more environmentally friendly options. Another assessment of the data, shows that people rely heavily on public transportation to go to places. This suggests that people can use more public transportation if this allows a more efficient way of taking care of pour environment.
 
 ## A solution
-Since Public Transport plays such a important role in our community, we propose that bus stops do not function just as transitions points from places, but also places from where passengers can have more information accessible to open and public places nearby.
+Since Public Transport plays such an important role in our community, we propose that bus stops do not function just as transitions points from places, but also places from where passengers can have more information accessible to open and public places nearby.
 
-Public transport routes go across all the veins and arteries of our city. We can then maximize this by connecting people to places they might not even know exist. This requires, not a change on the physical infrastructure, but rather a digital infrastructure. For this, we can also maximise the fact that Canberrans have easy access to networks in which tools like the ones here presented can be made accessible.
+Public transport routes go across all the veins and arteries of our city. We can then maximize this by connecting people to places they might not even know exist. This requires, not a change in the physical infrastructure, but rather a digital infrastructure. For this, we can also maximise the fact that Canberrans have easy access to networks in which tools like the ones here presented can be made accessible.
 
-This is why we have designed and put together this tool. This is a functional prototype of the power and reach that public transformation can have in a post pandemic world, keeping up with the new technological advances available at our fingertips.
+This is why we have designed and put together this tool. This is a functional prototype of the power and reach that public transformation can have in a post-pandemic world, keeping up with the new technological advances available at our fingertips.
 
 ## Data sources
 This tool drew data from different publically available sources. 
